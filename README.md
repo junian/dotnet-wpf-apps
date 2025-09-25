@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="96px">
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/microsoft-dotnet-logo.svg" height="96px">
 
 # .NET Windows Presentation Foundation (WPF) Apps
 
